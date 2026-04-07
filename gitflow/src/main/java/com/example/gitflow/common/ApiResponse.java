@@ -1,5 +1,8 @@
 package com.example.gitflow.common;
 
+/**
+ * 공통 API 응답 형식
+ */
 public class ApiResponse {
     private boolean success;
     private String  message;
